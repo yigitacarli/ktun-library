@@ -50,4 +50,4 @@ int main()
  return 0;
 }
 
-//Yiğit Acarlı tarafından yapılmıştır. No: 221213100
+//YiÃ°it AcarlÃ½ tarafÃ½ndan yapÃ½lmÃ½Ã¾tÃ½r. No: 221213100

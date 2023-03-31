@@ -1,2 +1,2 @@
 # ktun-library
-It contains some files belonging to Konya Technical University.
+Some codes from my computer engineering education at Konya Technical University.

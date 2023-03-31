@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//LAB 2 ÖDEV 1 - Klavyeden girilen 50 adet tamsayı bir diziye aktarıldıktan sonra, bu dizi elemanlarının
-//ortalamasını ve dizideki kaç elemanın ortalamanın altında, kaç elemanın ortalamanın üstünde olduğunu ekrana yazdıran program kodunu yazınız.
+//LAB 2 Ã–DEV 1 - Klavyeden girilen 50 adet tamsayÄ± bir diziye aktarÄ±ldÄ±ktan sonra, bu dizi elemanlarÄ±nÄ±n
+//ortalamasÄ±nÄ± ve dizideki kaÃ§ elemanÄ±n ortalamanÄ±n altÄ±nda, kaÃ§ elemanÄ±n ortalamanÄ±n Ã¼stÃ¼nde olduÄŸunu ekrana yazdÄ±ran program kodunu yazÄ±nÄ±z.
 
 int main() 
 {
@@ -40,4 +40,4 @@ int main()
 }
 
 
-//Yiğit Acarlı tarafından yapılmıştır. No: 221213100
+//YiÄŸit AcarlÄ± tarafÄ±ndan yapÄ±lmÄ±ÅŸtÄ±r. No: 221213100

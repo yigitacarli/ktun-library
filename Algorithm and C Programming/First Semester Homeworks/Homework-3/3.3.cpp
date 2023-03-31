@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Türkçe kelimeleri algılamak zorunde değil.
+//TÃ¼rkÃ§e kelimeleri algÄ±lamak zorunde deÄŸil.
 
 int main() 
 {
@@ -28,4 +28,4 @@ int main()
 return 0;
 }
 
-//Ödev Yiğit Acarlı tarafından yapılmıştır. 221213100.
+//Ã–dev YiÄŸit AcarlÄ± tarafÄ±ndan yapÄ±lmÄ±ÅŸtÄ±r. 221213100.

@@ -1,6 +1,6 @@
 /* 
-2.Soru: 2.	0 ile 100 arasýnda rasgele oluþturduðunuz 100 sayýdan (5. bitleri 0 olan sayýlarýn 4. bitini 1 yaparak sayilar0.txt dosyasýna) 
-(5. bitleri 1 olan sayýlarýn 3. bitini 0 yaparak sayilar1.txt dosyasýna) yazan program kodunu yazýnýz.
+2.Soru: 2.	0 ile 100 arasÄ±nda rasgele oluÅŸturduÄŸunuz 100 sayÄ±dan (5. bitleri 0 olan sayÄ±larÄ±n 4. bitini 1 yaparak sayilar0.txt dosyasÄ±na) 
+(5. bitleri 1 olan sayÄ±larÄ±n 3. bitini 0 yaparak sayilar1.txt dosyasÄ±na) yazan program kodunu yazÄ±nÄ±z.
 */
 
 #include <stdio.h>

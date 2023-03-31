@@ -1,4 +1,4 @@
-//Bir sayının faktoriyelini hesaplama
+//Bir sayÃ½nÃ½n faktoriyelini hesaplama
 #include<stdio.h>
 #include<stdlib.h>
 

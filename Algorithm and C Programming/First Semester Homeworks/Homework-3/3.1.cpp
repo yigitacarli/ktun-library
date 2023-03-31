@@ -22,4 +22,4 @@ int main () {
 	return 0;
 }
 
-//Ödev Yiğit Acarlı tarafından yapılmıştır. 221213100.
+//Ã–dev YiÃ°it AcarlÃ½ tarafÃ½ndan yapÃ½lmÃ½Ã¾tÃ½r. 221213100.

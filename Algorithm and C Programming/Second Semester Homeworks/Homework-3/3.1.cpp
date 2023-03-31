@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-//OBEB = Ortak Bölenlerin En Büyüðü //
+//OBEB = Ortak BÃ¶lenlerin En BÃ¼yÃ¼Ã°Ã¼ //
  
 int obeb(int s1, int s2) 
 {
@@ -24,5 +24,3 @@ int main() {
 	
 return 0;
 }
- 
-

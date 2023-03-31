@@ -1,13 +1,13 @@
 /* 
-1.Soru: Kendisine parametre olarak gelen tamsayıyı bitsel operatörler kullanarak yine kendisine parametre olarak gelen sayı kadar left rotated shift yapan fonksiyon kodunu yazınız.
-Yazılan fonksiyonu program içeresinde kullanınız.
+1.Soru: Kendisine parametre olarak gelen tamsayÄ±yÄ± bitsel operatÃ¶rler kullanarak yine kendisine parametre olarak gelen sayÄ± kadar left rotated shift yapan fonksiyon kodunu yazÄ±nÄ±z.
+YazÄ±lan fonksiyonu program iÃ§eresinde kullanÄ±nÄ±z.
 */
 
 #include <stdio.h>
 
 int sola_kaydirma(int sayi, int kaydirma_miktari) {
 	
-    return (sayi << kaydirma_miktari) | (sayi >> (sizeof(int)*8 - kaydirma_miktari)); //left shift rotate kısmı.
+    return (sayi << kaydirma_miktari) | (sayi >> (sizeof(int)*8 - kaydirma_miktari)); //left shift rotate kÄ±smÄ±.
 }
 
 int main() {

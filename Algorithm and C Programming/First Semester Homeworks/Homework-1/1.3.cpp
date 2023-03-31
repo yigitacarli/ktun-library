@@ -2,18 +2,18 @@
 #include <math.h>
 #include <stdlib.h>
 
-// Algoritma Ödevi 1-3
+// Algoritma Ã–devi 1-3
 
-// Kullanıcıdan 4 adet sayı istenilecek ve bu sayılardan tek olanların
-// aritmetik ortalamasını, çift olanların geometrik ortalamasını hesaplayarak
-// ekrana yazdırınız.
+// KullanÄ±cÄ±dan 4 adet sayÄ± istenilecek ve bu sayÄ±lardan tek olanlarÄ±n
+// aritmetik ortalamasÄ±nÄ±, Ã§ift olanlarÄ±n geometrik ortalamasÄ±nÄ± hesaplayarak
+// ekrana yazdÄ±rÄ±nÄ±z.
 
 int main() {
 	
 	int i,sayi;
 	float tekler=0, ciftler=1, ciftsayac=0, teksayac=0;
    
-   for( i=1; i<5; i++) { //4 sayı alması için i<5 yazıyoruz.
+   for( i=1; i<5; i++) { //4 sayÄ± almasÄ± iÃ§in i<5 yazÄ±yoruz.
    	
   	printf("%d. Sayiyi giriniz: ",i);
 	scanf("%d",&sayi);
@@ -36,4 +36,4 @@ int main() {
 return 0;
 }
 
-//Yiğit Acarlı tarafından yapılmıştır. Öğrenci Numarası: 221213100
+//YiÄŸit AcarlÄ± tarafÄ±ndan yapÄ±lmÄ±ÅŸtÄ±r. Ã–ÄŸrenci NumarasÄ±: 221213100
